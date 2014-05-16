@@ -1,0 +1,60 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "title": "pasta"
+    },
+    {
+      "id": 1,
+      "title": "beef"
+    }
+  ],
+  "weeks": [
+    {
+      "1": {
+        "monday": {
+          "msq": {
+            "main": "pasta",
+            "bar": "beef"
+          },
+          "ws": {
+            "main": "fish",
+            "bar": "cake"
+          }
+        },
+        "tuesday": {
+          "msq": {
+            "main": "mash",
+            "bar": "lasagne"
+          },
+          "ws": {
+            "main": "soup",
+            "bar": "beef"
+          }
+        }
+      },
+      "2": {
+        "monday": {
+          "msq": {
+            "main": "mash",
+            "bar": "beef"
+          },
+          "ws": {
+            "main": "cake",
+            "bar": "pasta"
+          }
+        },
+        "tuesday": {
+          "msq": {
+            "main": "pasta",
+            "bar": "mash"
+          },
+          "ws": {
+            "main": "beef",
+            "bar": "lasagne"
+          }
+        }
+      }
+    }
+  ]
+}
